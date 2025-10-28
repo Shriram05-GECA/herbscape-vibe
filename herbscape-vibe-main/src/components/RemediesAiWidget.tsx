@@ -69,6 +69,7 @@ export const RemediesAiWidget = () => {
               loop
               muted
               playsInline
+              disablePictureInPicture
               className="w-full h-full object-cover"
             />
           </div>
